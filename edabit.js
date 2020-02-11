@@ -11,3 +11,7 @@ function lessThan100(a, b) {
 		return true
 	else return false
 }
+
+function getFirstValue(arr) {
+	return arr[0];
+}
