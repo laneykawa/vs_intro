@@ -39,3 +39,8 @@ function lessThan100(a, b) {
 		return true
 	else return false
 }
+
+//2/23/2020
+function isSameNum(num1, num2) {
+	return num1 === num2
+}
