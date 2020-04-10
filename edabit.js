@@ -56,3 +56,9 @@ let a = arr[0]
 let b = arr[1]
 console.log(a)
 console.log(b)
+
+// 4/9/2020
+// In this challenge, a farmer is asking you to tell him how many legs can be counted among all his animals. The farmer breeds three species:
+function animals(chickens, cows, pigs) {
+	return (chickens * 2 + cows * 4 + pigs * 4)
+}
