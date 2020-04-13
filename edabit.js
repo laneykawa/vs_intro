@@ -62,3 +62,9 @@ console.log(b)
 function animals(chickens, cows, pigs) {
 	return (chickens * 2 + cows * 4 + pigs * 4)
 }
+
+
+// 4/13/2020
+function addition(num) {
+	return num + 1
+}
