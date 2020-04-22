@@ -68,3 +68,9 @@ function animals(chickens, cows, pigs) {
 function addition(num) {
 	return num + 1
 }
+
+// 4/21/2020
+
+function firstOfArray(arr){
+	return arr[0]
+}
